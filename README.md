@@ -1,7 +1,7 @@
 # Simulation Code for Significance Testing for Causal Mediation Analysis in Single Case Experimental Designs
 
 This repository contains the R code used to conduct the simulation study for **Significance Testing for Causal Mediation Analysis in Single Case Experimental Designs**. 
-The simulation framework consists of two main stages: **1. Data Generating Progress** and **2. Statistical Simulation (Parallel computing)**.
+The simulation framework consists of two main stages: **1. Data Generating Progress** and **2. Statistical Simulation (Parallel computing framework)**.
 
 The overall workflow is:
 
