@@ -32,7 +32,7 @@ Mediation effect estimation & CI-based significance testing
         ├── RP_test_CI_gls.R     (RP procedure for GLS)
         ├── RP_test_CI_neweywest.R (RP procedure for Newey West)
         ├── RP_test_CI_ols.R     (RP procedure for OLS)
-        ├──  RP_test_CI_orcutt.R (RP procedure for Cochrane-Orcutt)
+        ├── RP_test_CI_orcutt.R (RP procedure for Cochrane-Orcutt)
         │
         ▼
 SIMU_Summary.Rdata (Simulation output)
