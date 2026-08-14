@@ -195,5 +195,5 @@ SIMU_Summary.Rdata
 
 If you use this simulation code in your research, please cite:
 
-> [doi]
+> [Zenodo doi]
 
