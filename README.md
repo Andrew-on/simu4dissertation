@@ -63,7 +63,7 @@ Before running the simulation, make sure that:
 
 * R is installed on your system.
 * All required R packages are installed.
-* The files in this repository are placed in the appropriate working directory.
+* The files in this repository are placed in the same working directory.
 * Sufficient computational resources are available for the parallel simulation.
 
 The required packages can be installed using:
