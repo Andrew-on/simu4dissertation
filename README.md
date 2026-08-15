@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21940899.svg)](https://doi.org/10.5281/zenodo.21940899)
+
 # Simulation Code for *Significance Testing for Causal Mediation Analysis in Single Case Experimental Designs*
 
 This repository contains the R code used to conduct the simulation study for **Significance Testing for Causal Mediation Analysis in Single Case Experimental Designs**. 
@@ -195,5 +197,5 @@ SIMU_Summary.Rdata
 
 If you use this simulation code in your research, please cite:
 
-> [Zenodo doi]
+> Pang, J.& Valente, M. (2026). Significance Testing for Causal Mediation Analysis in Single Case Experimental Designs. Zenodo. https://doi.org/10.5281/zenodo.21940899
 
